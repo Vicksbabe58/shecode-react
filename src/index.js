@@ -22,7 +22,7 @@ root.render(
       <WeatherSearch />
       <small>
         <a
-          href="https://vicksbabe58.github.io/Shecodes-WeatherAPP-Final/"
+          href="https://vicksbabe58.github.io/shecodes-react/"
           rel="noreferrer"
           target="_blank"
         >
